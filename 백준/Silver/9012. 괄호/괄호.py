@@ -7,13 +7,15 @@ def check(s):
             if stk and stk[-1]=='(':
                 stk.pop()
             else:
-                return False
-    return not stk
+                print("NO")
+                return
+    if stk:
+        print("NO")
+    else:
+        print("YES")
 
 n = int(input())
 for i in range(n):
-    if check(input()):
-        print("YES")
-    else:
-        print("NO")
+    check(input())
+
 
