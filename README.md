@@ -1,2 +1,32 @@
-# Algorithm-Auto
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# 
+# 백준 & 프로그래머스 문제 풀이 목록
+
+프로그래머스의 경우, 푼 문제 목록에 대한 마이그레이션이 필요합니다.
+
+### 🚀 241115
+| 문제번호 | 링크 |
+| ----- | ----- |
+|단어 출력|[링크](./241115/%EB%8B%A8%EC%96%B4%20%EC%B6%9C%EB%A0%A5/README.md)|
+|문장 출력|[링크](./241115/%EB%AC%B8%EC%9E%A5%20%EC%B6%9C%EB%A0%A5/print-sentence.java)|
+## 📚 백준
+### 🚀 Bronze
+| 문제번호 | 링크 |
+| ----- | ----- |
+|10809. 알파벳 찾기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10809.%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3%E2%80%85%EC%B0%BE%EA%B8%B0/README.md)|
+### 🚀 Silver
+| 문제번호 | 링크 |
+| ----- | ----- |
+|9012. 괄호|[링크](./%EB%B0%B1%EC%A4%80/Silver/9012.%E2%80%85%EA%B4%84%ED%98%B8/%EA%B4%84%ED%98%B8.py)|
+## 📚 프로그래머스
+### 🚀 1
+| 문제번호 | 링크 |
+| ----- | ----- |
+|132201. 12세 이하인 여자 환자 목록 출력하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/1/132201.%E2%80%8512%EC%84%B8%E2%80%85%EC%9D%B4%ED%95%98%EC%9D%B8%E2%80%85%EC%97%AC%EC%9E%90%E2%80%85%ED%99%98%EC%9E%90%E2%80%85%EB%AA%A9%EB%A1%9D%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/12%EC%84%B8%E2%80%85%EC%9D%B4%ED%95%98%EC%9D%B8%E2%80%85%EC%97%AC%EC%9E%90%E2%80%85%ED%99%98%EC%9E%90%E2%80%85%EB%AA%A9%EB%A1%9D%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.sql)|
+### 🚀 2
+| 문제번호 | 링크 |
+| ----- | ----- |
+|273711. 업그레이드 된 아이템 구하기|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/2/273711.%E2%80%85%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%E2%80%85%EB%90%9C%E2%80%85%EC%95%84%EC%9D%B4%ED%85%9C%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0/%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%E2%80%85%EB%90%9C%E2%80%85%EC%95%84%EC%9D%B4%ED%85%9C%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0.sql)|
+### 🚀 4
+| 문제번호 | 링크 |
+| ----- | ----- |
+|1843. 사칙연산|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/4/1843.%E2%80%85%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0/%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0.py)|
