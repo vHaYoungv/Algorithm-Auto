@@ -12,6 +12,9 @@ jobs: # 실제 실행될 내용
     runs-on: ubuntu-latest # 빌드 환경
     steps:
     - uses: actions/checkout@v3 # checkout
+      with:
+        repository: vHaYoungv/Algorithm-Auto
+        token: ${{ secrets.ALGORITHM-AUTO-TOKEN }}
     - name: Set up Python 3.10 
       uses: actions/setup-python@v3 # setup-python
       with:
